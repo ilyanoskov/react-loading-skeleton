@@ -5,7 +5,7 @@
   "author": "David Tang",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dvtng/react-loading-skeleton.git"
+    "url": "https://github.com/ilyanoskov/react-loading-skeleton.git"
   },
   "private": false,
   "main": "dist/bundle.js",
@@ -27,8 +27,8 @@
     "babel-preset-react": "^6.24.1",
     "css-loader": "^0.28.4",
     "prop-types": "^15.5.10",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
     "style-loader": "^0.18.2",
     "webpack": "^2.6.1",
     "webpack-dev-server": "^2.4.5"
